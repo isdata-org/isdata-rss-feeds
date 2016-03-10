@@ -1,4 +1,4 @@
-http://www.sciencedaily.com/rss/earth_climate/recycling_and_waste.xml "Recycling"
+https://rss.sciencedaily.com/earth_climate/recycling_and_waste.xml "Recycling"
 http://www.recyclinginternational.com/news-feeds/all "Recycling"
 http://www.businessgreen.com/feeds/rss/category/technology/recycling "Recycling"
 http://wmr.sagepub.com/rss/current.xml "Waste"
