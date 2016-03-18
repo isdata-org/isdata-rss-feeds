@@ -29,3 +29,4 @@ http://veolia.com/en/rss-articles
 http://veolia.com/en/rss-publications
 http://veolia.com/en/rss-news
 http://veolia.com/en/rss-site-updates
+https://waste-management-world.com/sitemaps/rss.xml
