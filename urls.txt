@@ -30,3 +30,5 @@ http://veolia.com/en/rss-publications
 http://veolia.com/en/rss-news
 http://veolia.com/en/rss-site-updates
 https://waste-management-world.com/sitemaps/rss.xml
+http://www.environmentalleader.com/feed/
+http://circulatenews.org/feed/
