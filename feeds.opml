@@ -29,5 +29,11 @@
     <outline type="rss" xmlUrl="https://dl.sciencesocieties.org/publications/jeq/rss" htmlUrl="https://dl.sciencesocieties.org/publications/jeq/rss" title="Journal of Environmental Quality - Recent Articles"/>
     <outline type="rss" xmlUrl="https://flipboard.com/@grahamaid/industrial-symbiosis-29dejsauz.rss" htmlUrl="https://flipboard.com/@grahamaid/industrial-symbiosis-29dejsauz" title="Industrial Symbiosis"/>
     <outline type="rss" xmlUrl="https://flipboard.com/@grahamaid/industrial-recycling-efquf778z.rss" htmlUrl="https://flipboard.com/@grahamaid/industrial-recycling-efquf778z" title="Industrial Recycling"/>
+    <outline type="rss" xmlUrl="http://www.edie.net/news/rss0.xml" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.kleanindustries.com/s/RSS.asp?Version=RSS2.0" htmlUrl="http://www.kleanindustries.com/" title="Klean Industries Inc. News Feed"/>
+    <outline type="rss" xmlUrl="http://veolia.com/en/rss-articles" htmlUrl="http://veolia.com/en/rss-site-updates" title="Articles"/>
+    <outline type="rss" xmlUrl="http://veolia.com/en/rss-publications" htmlUrl="http://veolia.com/en/rss-site-updates" title="Publications"/>
+    <outline type="rss" xmlUrl="http://veolia.com/en/rss-news" htmlUrl="http://veolia.com/en/rss-site-updates" title="News"/>
+    <outline type="rss" xmlUrl="http://veolia.com/en/rss-site-updates" htmlUrl="http://veolia.com/en/rss-site-updates" title="Site updates"/>
   </body>
 </opml>

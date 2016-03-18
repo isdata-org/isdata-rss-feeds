@@ -23,3 +23,9 @@ http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=
 https://dl.sciencesocieties.org/publications/jeq/rss "Journal of Environmental Quality - Recent Articles"
 https://flipboard.com/@grahamaid/industrial-symbiosis-29dejsauz.rss "Industrial Symbiosis"
 https://flipboard.com/@grahamaid/industrial-recycling-efquf778z.rss "Industrial Recycling"
+http://www.edie.net/news/rss0.xml
+http://www.kleanindustries.com/s/RSS.asp?Version=RSS2.0
+http://veolia.com/en/rss-articles
+http://veolia.com/en/rss-publications
+http://veolia.com/en/rss-news
+http://veolia.com/en/rss-site-updates
