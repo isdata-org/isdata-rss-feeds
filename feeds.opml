@@ -37,5 +37,9 @@
     <outline type="rss" xmlUrl="http://veolia.com/en/rss-site-updates" htmlUrl="http://veolia.com/en/rss-site-updates" title="Site updates"/>
     <outline type="rss" xmlUrl="https://waste-management-world.com/sitemaps/rss.xml" htmlUrl="https://waste-management-world.com" title="Waste Management World"/>
     <outline type="rss" xmlUrl="http://www.environmentalleader.com/feed/" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://circulatenews.org/feed/" htmlUrl="http://circulatenews.org" title="Circulate"/>
+    <outline type="rss" xmlUrl="http://waste360.com/rss.xml" htmlUrl="http://waste360.com/rss.xml" title="Waste360"/>
+    <outline type="rss" xmlUrl="http://www.zerowasteeurope.eu/feed/" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.ciwm-journal.co.uk/feed/" htmlUrl="" title=""/>
   </body>
 </opml>
