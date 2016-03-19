@@ -35,3 +35,4 @@ http://circulatenews.org/feed/
 http://waste360.com/rss.xml
 http://www.zerowasteeurope.eu/feed/
 http://www.ciwm-journal.co.uk/feed/
+http://www.international-synergies.com/feed/

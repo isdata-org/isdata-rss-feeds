@@ -41,5 +41,6 @@
     <outline type="rss" xmlUrl="http://waste360.com/rss.xml" htmlUrl="http://waste360.com/rss.xml" title="Waste360"/>
     <outline type="rss" xmlUrl="http://www.zerowasteeurope.eu/feed/" htmlUrl="" title=""/>
     <outline type="rss" xmlUrl="http://www.ciwm-journal.co.uk/feed/" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.international-synergies.com/feed/" htmlUrl="" title=""/>
   </body>
 </opml>
