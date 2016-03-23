@@ -4,7 +4,7 @@
     <title>newsbeuter - Exported Feeds</title>
   </head>
   <body>
-    <outline type="rss" xmlUrl="https://rss.sciencedaily.com/earth_climate/recycling_and_waste.xml" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="https://rss.sciencedaily.com/earth_climate/recycling_and_waste.xml" htmlUrl="https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/" title="Recycling and Waste News -- ScienceDaily"/>
     <outline type="rss" xmlUrl="http://www.recyclinginternational.com/news-feeds/all" htmlUrl="http://www.recyclinginternational.com/news-feeds/all" title="Recycling International RSS Feed"/>
     <outline type="rss" xmlUrl="http://www.businessgreen.com/feeds/rss/category/technology/recycling" htmlUrl="http://www.businessgreen.com" title="Recycling - Technology - Business Green "/>
     <outline type="rss" xmlUrl="http://wmr.sagepub.com/rss/current.xml" htmlUrl="http://wmr.sagepub.com" title="Waste Management &amp; Research current issue"/>
@@ -13,7 +13,7 @@
     <outline type="rss" xmlUrl="http://wmr.sagepub.com/rss/current.xml" htmlUrl="http://wmr.sagepub.com" title="Waste Management &amp; Research current issue"/>
     <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09608524" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Bioresource Technology"/>
     <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03043894" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Journal of Hazardous Materials"/>
-    <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00456535" htmlUrl="http://www.sciencedirect.com" title="Chemosphere"/>
+    <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00456535" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Chemosphere"/>
     <outline type="rss" xmlUrl="http://feeds.feedburner.com/acs/esthag" htmlUrl="http://pubs.acs.org" title="Environmental Science &amp; Technology: Latest Articles (ACS Publications)"/>
     <outline type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1530-9290" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291530-9290" title="Journal of Industrial Ecology"/>
     <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09596526" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Journal of Cleaner Production"/>
@@ -21,7 +21,7 @@
     <outline type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=l8g4y6&amp;ai=16k&amp;jc=tent20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/toc/tent20/current" title="Environmental Technology: Table of Contents: Taylor and Francis"/>
     <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/23521864" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Environmental Technology &amp; Innovation"/>
     <outline type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/%28ISSN%291097-4660" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291097-4660" title="Journal of Chemical Technology and Biotechnology"/>
-    <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03014797" htmlUrl="http://www.sciencedirect.com" title="J of Env Mng"/>
+    <outline type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03014797" htmlUrl="http://www.sciencedirect.com" title="ScienceDirect Publication: Journal of Environmental Management"/>
     <outline type="rss" xmlUrl="http://wmr.sagepub.com/rss/current.xml" htmlUrl="http://wmr.sagepub.com" title="Waste Management &amp; Research current issue"/>
     <outline type="rss" xmlUrl="http://wmr.sagepub.com/rss/recent.xml" htmlUrl="http://wmr.sagepub.com" title="Waste Management &amp; Research recent issues"/>
     <outline type="rss" xmlUrl="http://wmr.sagepub.com/rss/ahead.xml" htmlUrl="http://wmr.sagepub.com" title="Waste Management &amp; Research RSS feed -- OnlineFirst Articles"/>
@@ -29,18 +29,19 @@
     <outline type="rss" xmlUrl="https://dl.sciencesocieties.org/publications/jeq/rss" htmlUrl="https://dl.sciencesocieties.org/publications/jeq/rss" title="Journal of Environmental Quality - Recent Articles"/>
     <outline type="rss" xmlUrl="https://flipboard.com/@grahamaid/industrial-symbiosis-29dejsauz.rss" htmlUrl="https://flipboard.com/@grahamaid/industrial-symbiosis-29dejsauz" title="Industrial Symbiosis"/>
     <outline type="rss" xmlUrl="https://flipboard.com/@grahamaid/industrial-recycling-efquf778z.rss" htmlUrl="https://flipboard.com/@grahamaid/industrial-recycling-efquf778z" title="Industrial Recycling"/>
-    <outline type="rss" xmlUrl="http://www.edie.net/news/rss0.xml" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.edie.net/news/rss0.xml" htmlUrl="http://www.edie.net/news/index.asp" title="edie%2Enet+%2D+All+the+latest+news"/>
     <outline type="rss" xmlUrl="http://www.kleanindustries.com/s/RSS.asp?Version=RSS2.0" htmlUrl="http://www.kleanindustries.com/" title="Klean Industries Inc. News Feed"/>
     <outline type="rss" xmlUrl="http://veolia.com/en/rss-articles" htmlUrl="http://veolia.com/en/rss-site-updates" title="Articles"/>
     <outline type="rss" xmlUrl="http://veolia.com/en/rss-publications" htmlUrl="http://veolia.com/en/rss-site-updates" title="Publications"/>
     <outline type="rss" xmlUrl="http://veolia.com/en/rss-news" htmlUrl="http://veolia.com/en/rss-site-updates" title="News"/>
     <outline type="rss" xmlUrl="http://veolia.com/en/rss-site-updates" htmlUrl="http://veolia.com/en/rss-site-updates" title="Site updates"/>
     <outline type="rss" xmlUrl="https://waste-management-world.com/sitemaps/rss.xml" htmlUrl="https://waste-management-world.com" title="Waste Management World"/>
-    <outline type="rss" xmlUrl="http://www.environmentalleader.com/feed/" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.environmentalleader.com/feed/" htmlUrl="http://www.environmentalleader.com" title="Environmental Leader"/>
     <outline type="rss" xmlUrl="http://circulatenews.org/feed/" htmlUrl="http://circulatenews.org" title="Circulate"/>
     <outline type="rss" xmlUrl="http://waste360.com/rss.xml" htmlUrl="http://waste360.com/rss.xml" title="Waste360"/>
-    <outline type="rss" xmlUrl="http://www.zerowasteeurope.eu/feed/" htmlUrl="" title=""/>
-    <outline type="rss" xmlUrl="http://www.ciwm-journal.co.uk/feed/" htmlUrl="" title=""/>
-    <outline type="rss" xmlUrl="http://www.international-synergies.com/feed/" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://www.zerowasteeurope.eu/feed/" htmlUrl="http://www.zerowasteeurope.eu" title="Zero Waste Europe"/>
+    <outline type="rss" xmlUrl="http://www.ciwm-journal.co.uk/feed/" htmlUrl="http://www.ciwm-journal.co.uk" title="CIWM Journal Online"/>
+    <outline type="rss" xmlUrl="http://www.international-synergies.com/feed/" htmlUrl="http://www.international-synergies.com" title="International Synergies"/>
+    <outline type="rss" xmlUrl="http://resource-recycling.com/taxonomy/term/39/0/feed" htmlUrl="http://resource-recycling.com/taxonomy/term/39/0" title="Resource Recycling - Resource Recycling"/>
   </body>
 </opml>
