@@ -43,5 +43,6 @@
     <outline type="rss" xmlUrl="http://www.ciwm-journal.co.uk/feed/" htmlUrl="http://www.ciwm-journal.co.uk" title="CIWM Journal Online"/>
     <outline type="rss" xmlUrl="http://www.international-synergies.com/feed/" htmlUrl="http://www.international-synergies.com" title="International Synergies"/>
     <outline type="rss" xmlUrl="http://resource-recycling.com/taxonomy/term/39/0/feed" htmlUrl="http://resource-recycling.com/taxonomy/term/39/0" title="Resource Recycling - Resource Recycling"/>
+    <outline type="rss" xmlUrl="http://www.plasticsnews.com/section/rss" htmlUrl="http://www.plasticsnews.com/section/news" title="Plastics News - RSS News Feed"/>
   </body>
 </opml>
